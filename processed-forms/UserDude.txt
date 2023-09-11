@@ -1,0 +1,1 @@
+{"firstName":"Dude","phone":"123-456-7890","email":"johndoe@example.com","address":"123 Street St","Age":4,"occupation":"Artist"}
